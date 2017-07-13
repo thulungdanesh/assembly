@@ -1,0 +1,5 @@
+MOV R0,#5
+MOV R1,#10
+SUB R0,R1
+
+;Register R0 now has a value of 5. 
