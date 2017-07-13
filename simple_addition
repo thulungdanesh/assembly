@@ -1,0 +1,5 @@
+MOV R0,#2
+MOV R1,#5
+ADD R0,R1
+
+;The result R0 gives 7
